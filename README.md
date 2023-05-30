@@ -1,11 +1,11 @@
-## Path Neural Networks 
----
+# Path Neural Networks: Expressive and Accurate Graph Neural Networks
+
 This repository contains scripts to reproduce experiments presented in the paper **Gaspard Michel, Giannis Nikolentzos, Johannes Lutzeyer, Michalis Vazirgiannis: *Path Neural Networks: Expressive and Accurate Graph Neural Networks*** (ICML 2023). 
 
 ![Alt text](figures/pathnn_k1.jpg?raw=true)
 ![Alt text](figures/pathnn_k2.jpg?raw=true)
 
-## Installation ## 
+## Installation 
 ----
 
 The following were used for this project: 
