@@ -1,0 +1,135 @@
+INFO:__main__:{'hidden_dim': 152, 'lstm_dropout': 0, 'in_dropout': 0, 'out_dropout': 0, 'cutoff': 5, 'n_seeds': 10, 'readout': 'sum', 'path_agg': 'sum'}
+INFO:__main__:
+--------------- TESTING OVER 10 SEEDS---------------
+
+INFO:__main__:Model # Parameters 497041
+INFO:__main__:============= Results 1/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     278
+Validation:     0.1447    Seed Average: 0.1447 +/- 0.0000
+Test:           0.1001    Seed Average: 0.1001 +/- 0.0000
+--------------- Last epoch -----------------
+Train:          0.0140    Seed Average: 0.0140 +/- 0.0000
+Validation:     0.1461    Seed Average: 0.1461 +/- 0.0000
+Test:           0.1005    Seed Average: 0.1005 +/- 0.0000
+-------------------------------------------
+
+
+INFO:__main__:============= Results 2/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     200
+Validation:     0.1348    Seed Average: 0.1397 +/- 0.0050
+Test:           0.1075    Seed Average: 0.1038 +/- 0.0037
+--------------- Last epoch -----------------
+Train:          0.0165    Seed Average: 0.0152 +/- 0.0012
+Validation:     0.1370    Seed Average: 0.1416 +/- 0.0046
+Test:           0.1071    Seed Average: 0.1038 +/- 0.0033
+-------------------------------------------
+
+
+INFO:__main__:============= Results 3/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     172
+Validation:     0.1348    Seed Average: 0.1381 +/- 0.0047
+Test:           0.1040    Seed Average: 0.1039 +/- 0.0030
+--------------- Last epoch -----------------
+Train:          0.0164    Seed Average: 0.0156 +/- 0.0011
+Validation:     0.1378    Seed Average: 0.1403 +/- 0.0041
+Test:           0.1040    Seed Average: 0.1038 +/- 0.0027
+-------------------------------------------
+
+
+INFO:__main__:============= Results 4/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     266
+Validation:     0.1366    Seed Average: 0.1377 +/- 0.0041
+Test:           0.1008    Seed Average: 0.1031 +/- 0.0029
+--------------- Last epoch -----------------
+Train:          0.0117    Seed Average: 0.0147 +/- 0.0020
+Validation:     0.1389    Seed Average: 0.1400 +/- 0.0036
+Test:           0.1003    Seed Average: 0.1030 +/- 0.0028
+-------------------------------------------
+
+
+INFO:__main__:============= Results 5/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     259
+Validation:     0.1381    Seed Average: 0.1378 +/- 0.0037
+Test:           0.1027    Seed Average: 0.1030 +/- 0.0026
+--------------- Last epoch -----------------
+Train:          0.0132    Seed Average: 0.0144 +/- 0.0019
+Validation:     0.1396    Seed Average: 0.1399 +/- 0.0033
+Test:           0.1035    Seed Average: 0.1031 +/- 0.0025
+-------------------------------------------
+
+
+INFO:__main__:============= Results 6/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     212
+Validation:     0.1326    Seed Average: 0.1369 +/- 0.0039
+Test:           0.1016    Seed Average: 0.1028 +/- 0.0025
+--------------- Last epoch -----------------
+Train:          0.0141    Seed Average: 0.0143 +/- 0.0017
+Validation:     0.1339    Seed Average: 0.1389 +/- 0.0037
+Test:           0.1004    Seed Average: 0.1026 +/- 0.0025
+-------------------------------------------
+
+
+INFO:__main__:============= Results 7/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     264
+Validation:     0.1353    Seed Average: 0.1367 +/- 0.0036
+Test:           0.1051    Seed Average: 0.1031 +/- 0.0024
+--------------- Last epoch -----------------
+Train:          0.0117    Seed Average: 0.0140 +/- 0.0018
+Validation:     0.1372    Seed Average: 0.1386 +/- 0.0035
+Test:           0.1047    Seed Average: 0.1029 +/- 0.0024
+-------------------------------------------
+
+
+INFO:__main__:============= Results 8/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     276
+Validation:     0.1375    Seed Average: 0.1368 +/- 0.0034
+Test:           0.1045    Seed Average: 0.1033 +/- 0.0023
+--------------- Last epoch -----------------
+Train:          0.0097    Seed Average: 0.0134 +/- 0.0022
+Validation:     0.1395    Seed Average: 0.1388 +/- 0.0033
+Test:           0.1057    Seed Average: 0.1033 +/- 0.0024
+-------------------------------------------
+
+
+INFO:__main__:============= Results 9/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     279
+Validation:     0.1340    Seed Average: 0.1365 +/- 0.0033
+Test:           0.1058    Seed Average: 0.1036 +/- 0.0023
+--------------- Last epoch -----------------
+Train:          0.0150    Seed Average: 0.0136 +/- 0.0021
+Validation:     0.1346    Seed Average: 0.1383 +/- 0.0034
+Test:           0.1071    Seed Average: 0.1037 +/- 0.0026
+-------------------------------------------
+
+
+INFO:__main__:============= Results 10/10=============
+Dataset:        ZINC
+-------------  Best epoch ------------------
+Best epoch:     252
+Validation:     0.1328    Seed Average: 0.1361 +/- 0.0033
+Test:           0.1070    Seed Average: 0.1039 +/- 0.0024
+--------------- Last epoch -----------------
+Train:          0.0233    Seed Average: 0.0146 +/- 0.0035
+Validation:     0.1378    Seed Average: 0.1383 +/- 0.0032
+Test:           0.1077    Seed Average: 0.1041 +/- 0.0028
+-------------------------------------------
+
+

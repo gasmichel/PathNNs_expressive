@@ -1,0 +1,182 @@
+INFO:__main__:------------------------------ITERATION 1------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 500 Val loss 3.078 Val acc 0.833 Best Val Loss 2.822 Best Val Acc 0.870 Best Fold Val Acc  0.870 Best Fold Val Loss 1.020
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 500 Val loss 2.518 Val acc 0.741 Best Val Loss 1.592 Best Val Acc 0.833 Best Fold Val Acc  0.870 Best Fold Val Loss 0.973
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 404 Val loss 1.901 Val acc 0.815 Best Val Loss 1.476 Best Val Acc 0.870 Best Fold Val Acc  0.870 Best Fold Val Loss 0.931
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 394 Val loss 2.354 Val acc 0.741 Best Val Loss 1.749 Best Val Acc 0.833 Best Fold Val Acc  0.870 Best Fold Val Loss 0.931
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0.5
+INFO:__main__:Winner Best Val Accuracy 0.87037
+INFO:__main__:Test 1/3 Epoch 407 Val loss 2.023 Val acc 0.796 Best Val Loss 1.511 Best Val Acc 0.889
+INFO:__main__:Test 2/3 Epoch 500 Val loss 3.061 Val acc 0.759 Best Val Loss 2.379 Best Val Acc 0.833
+INFO:__main__:Test 3/3 Epoch 500 Val loss 2.382 Val acc 0.815 Best Val Loss 1.8 Best Val Acc 0.889
+INFO:__main__:Avg test acc 0.672, Agv test acc std 0.028
+INFO:__main__:Cross-val iter:1 | Current average test accuracy across folds 0.67222
+INFO:__main__:
+
+INFO:__main__:------------------------------ITERATION 2------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 500 Val loss 2.44 Val acc 0.722 Best Val Loss 2.162 Best Val Acc 0.778 Best Fold Val Acc  0.778 Best Fold Val Loss 1.054
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 500 Val loss 2.65 Val acc 0.63 Best Val Loss 2.432 Best Val Acc 0.704 Best Fold Val Acc  0.778 Best Fold Val Loss 1.054
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 500 Val loss 3.149 Val acc 0.685 Best Val Loss 1.501 Best Val Acc 0.796 Best Fold Val Acc  0.796 Best Fold Val Loss 1.054
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 500 Val loss 2.318 Val acc 0.704 Best Val Loss 2.014 Best Val Acc 0.796 Best Fold Val Acc  0.796 Best Fold Val Loss 1.054
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0
+INFO:__main__:Winner Best Val Accuracy 0.79630
+INFO:__main__:Test 1/3 Epoch 500 Val loss 1.957 Val acc 0.704 Best Val Loss 1.763 Best Val Acc 0.796
+INFO:__main__:Test 2/3 Epoch 500 Val loss 2.211 Val acc 0.685 Best Val Loss 1.859 Best Val Acc 0.778
+INFO:__main__:Test 3/3 Epoch 500 Val loss 2.099 Val acc 0.648 Best Val Loss 1.877 Best Val Acc 0.796
+INFO:__main__:Avg test acc 0.667, Agv test acc std 0.014
+INFO:__main__:Cross-val iter:2 | Current average test accuracy across folds 0.66944
+INFO:__main__:
+
+INFO:__main__:------------------------------ITERATION 3------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 500 Val loss 3.357 Val acc 0.593 Best Val Loss 1.494 Best Val Acc 0.796 Best Fold Val Acc  0.796 Best Fold Val Loss 1.090
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 500 Val loss 2.451 Val acc 0.667 Best Val Loss 1.562 Best Val Acc 0.778 Best Fold Val Acc  0.796 Best Fold Val Loss 1.090
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 486 Val loss 1.605 Val acc 0.667 Best Val Loss 1.102 Best Val Acc 0.796 Best Fold Val Acc  0.796 Best Fold Val Loss 1.090
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 500 Val loss 2.449 Val acc 0.685 Best Val Loss 2.128 Best Val Acc 0.741 Best Fold Val Acc  0.796 Best Fold Val Loss 1.090
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0.5
+INFO:__main__:Winner Best Val Accuracy 0.79630
+INFO:__main__:Test 1/3 Epoch 500 Val loss 4.233 Val acc 0.704 Best Val Loss 3.028 Best Val Acc 0.759
+INFO:__main__:Test 2/3 Epoch 500 Val loss 3.188 Val acc 0.63 Best Val Loss 1.158 Best Val Acc 0.778
+INFO:__main__:Test 3/3 Epoch 484 Val loss 2.428 Val acc 0.685 Best Val Loss 1.746 Best Val Acc 0.796
+INFO:__main__:Avg test acc 0.689, Agv test acc std 0.008
+INFO:__main__:Cross-val iter:3 | Current average test accuracy across folds 0.67593
+INFO:__main__:
+
+INFO:__main__:------------------------------ITERATION 4------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 323 Val loss 2.519 Val acc 0.722 Best Val Loss 0.945 Best Val Acc 0.815 Best Fold Val Acc  0.815 Best Fold Val Loss 0.945
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 500 Val loss 2.789 Val acc 0.648 Best Val Loss 2.584 Best Val Acc 0.704 Best Fold Val Acc  0.815 Best Fold Val Loss 0.945
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 500 Val loss 2.762 Val acc 0.759 Best Val Loss 2.598 Best Val Acc 0.815 Best Fold Val Acc  0.815 Best Fold Val Loss 0.945
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 500 Val loss 1.837 Val acc 0.667 Best Val Loss 2.19 Best Val Acc 0.778 Best Fold Val Acc  0.815 Best Fold Val Loss 0.945
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0.5
+INFO:__main__:Winner Best Val Accuracy 0.81481
+INFO:__main__:Test 1/3 Epoch 500 Val loss 2.042 Val acc 0.722 Best Val Loss 1.839 Best Val Acc 0.852
+INFO:__main__:Test 2/3 Epoch 500 Val loss 3.81 Val acc 0.722 Best Val Loss 1.775 Best Val Acc 0.796
+INFO:__main__:Test 3/3 Epoch 500 Val loss 1.849 Val acc 0.778 Best Val Loss 2.788 Best Val Acc 0.796
+INFO:__main__:Avg test acc 0.661, Agv test acc std 0.008
+INFO:__main__:Cross-val iter:4 | Current average test accuracy across folds 0.67222
+INFO:__main__:
+
+INFO:__main__:------------------------------ITERATION 5------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 500 Val loss 4.177 Val acc 0.722 Best Val Loss 3.93 Best Val Acc 0.741 Best Fold Val Acc  0.741 Best Fold Val Loss 1.577
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 500 Val loss 3.35 Val acc 0.556 Best Val Loss 2.623 Best Val Acc 0.667 Best Fold Val Acc  0.741 Best Fold Val Loss 1.568
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 476 Val loss 3.091 Val acc 0.593 Best Val Loss 2.781 Best Val Acc 0.685 Best Fold Val Acc  0.741 Best Fold Val Loss 1.568
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 500 Val loss 4.501 Val acc 0.593 Best Val Loss 3.703 Best Val Acc 0.704 Best Fold Val Acc  0.741 Best Fold Val Loss 1.568
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0.5
+INFO:__main__:Winner Best Val Accuracy 0.74074
+INFO:__main__:Test 1/3 Epoch 500 Val loss 3.976 Val acc 0.648 Best Val Loss 3.727 Best Val Acc 0.704
+INFO:__main__:Test 2/3 Epoch 500 Val loss 4.191 Val acc 0.667 Best Val Loss 4.002 Best Val Acc 0.722
+INFO:__main__:Test 3/3 Epoch 476 Val loss 4.089 Val acc 0.667 Best Val Loss 3.519 Best Val Acc 0.685
+INFO:__main__:Avg test acc 0.750, Agv test acc std 0.049
+INFO:__main__:Cross-val iter:5 | Current average test accuracy across folds 0.68778
+INFO:__main__:
+
+INFO:__main__:------------------------------ITERATION 6------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 500 Val loss 2.785 Val acc 0.759 Best Val Loss 2.175 Best Val Acc 0.833 Best Fold Val Acc  0.833 Best Fold Val Loss 1.109
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 404 Val loss 2.193 Val acc 0.593 Best Val Loss 1.007 Best Val Acc 0.796 Best Fold Val Acc  0.833 Best Fold Val Loss 1.003
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 407 Val loss 1.022 Val acc 0.741 Best Val Loss 1.174 Best Val Acc 0.870 Best Fold Val Acc  0.870 Best Fold Val Loss 0.935
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 500 Val loss 2.051 Val acc 0.685 Best Val Loss 1.778 Best Val Acc 0.759 Best Fold Val Acc  0.870 Best Fold Val Loss 0.935
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0
+INFO:__main__:Winner Best Val Accuracy 0.87037
+INFO:__main__:Test 1/3 Epoch 500 Val loss 1.407 Val acc 0.778 Best Val Loss 1.043 Best Val Acc 0.852
+INFO:__main__:Test 2/3 Epoch 500 Val loss 2.412 Val acc 0.685 Best Val Loss 1.631 Best Val Acc 0.833
+INFO:__main__:Test 3/3 Epoch 500 Val loss 1.411 Val acc 0.815 Best Val Loss 1.052 Best Val Acc 0.870
+INFO:__main__:Avg test acc 0.811, Agv test acc std 0.021
+INFO:__main__:Cross-val iter:6 | Current average test accuracy across folds 0.70833
+INFO:__main__:
+
+INFO:__main__:------------------------------ITERATION 7------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 427 Val loss 2.121 Val acc 0.741 Best Val Loss 1.016 Best Val Acc 0.833 Best Fold Val Acc  0.833 Best Fold Val Loss 0.825
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 500 Val loss 2.696 Val acc 0.574 Best Val Loss 1.682 Best Val Acc 0.741 Best Fold Val Acc  0.833 Best Fold Val Loss 0.825
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 500 Val loss 1.442 Val acc 0.741 Best Val Loss 1.221 Best Val Acc 0.870 Best Fold Val Acc  0.870 Best Fold Val Loss 0.825
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 500 Val loss 0.925 Val acc 0.796 Best Val Loss 0.937 Best Val Acc 0.833 Best Fold Val Acc  0.870 Best Fold Val Loss 0.694
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0
+INFO:__main__:Winner Best Val Accuracy 0.87037
+INFO:__main__:Test 1/3 Epoch 500 Val loss 1.082 Val acc 0.815 Best Val Loss 0.957 Best Val Acc 0.852
+INFO:__main__:Test 2/3 Epoch 500 Val loss 1.322 Val acc 0.741 Best Val Loss 1.258 Best Val Acc 0.815
+INFO:__main__:Test 3/3 Epoch 500 Val loss 1.839 Val acc 0.778 Best Val Loss 1.563 Best Val Acc 0.852
+INFO:__main__:Avg test acc 0.706, Agv test acc std 0.021
+INFO:__main__:Cross-val iter:7 | Current average test accuracy across folds 0.70794
+INFO:__main__:
+
+INFO:__main__:------------------------------ITERATION 8------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 500 Val loss 3.139 Val acc 0.722 Best Val Loss 1.872 Best Val Acc 0.833 Best Fold Val Acc  0.833 Best Fold Val Loss 1.275
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 500 Val loss 2.676 Val acc 0.759 Best Val Loss 2.342 Best Val Acc 0.778 Best Fold Val Acc  0.833 Best Fold Val Loss 1.194
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 500 Val loss 2.67 Val acc 0.741 Best Val Loss 2.379 Best Val Acc 0.815 Best Fold Val Acc  0.833 Best Fold Val Loss 0.931
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 454 Val loss 2.585 Val acc 0.722 Best Val Loss 1.551 Best Val Acc 0.796 Best Fold Val Acc  0.833 Best Fold Val Loss 0.931
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0.5
+INFO:__main__:Winner Best Val Accuracy 0.83333
+INFO:__main__:Test 1/3 Epoch 500 Val loss 3.363 Val acc 0.722 Best Val Loss 2.194 Best Val Acc 0.815
+INFO:__main__:Test 2/3 Epoch 457 Val loss 2.843 Val acc 0.741 Best Val Loss 1.174 Best Val Acc 0.852
+INFO:__main__:Test 3/3 Epoch 500 Val loss 3.604 Val acc 0.704 Best Val Loss 2.897 Best Val Acc 0.815
+INFO:__main__:Avg test acc 0.717, Agv test acc std 0.014
+INFO:__main__:Cross-val iter:8 | Current average test accuracy across folds 0.70903
+INFO:__main__:
+
+INFO:__main__:------------------------------ITERATION 9------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 500 Val loss 3.631 Val acc 0.611 Best Val Loss 2.066 Best Val Acc 0.741 Best Fold Val Acc  0.741 Best Fold Val Loss 1.288
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 500 Val loss 3.591 Val acc 0.574 Best Val Loss 3.115 Best Val Acc 0.648 Best Fold Val Acc  0.741 Best Fold Val Loss 1.288
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 500 Val loss 2.426 Val acc 0.593 Best Val Loss 1.562 Best Val Acc 0.778 Best Fold Val Acc  0.778 Best Fold Val Loss 1.148
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 500 Val loss 2.745 Val acc 0.63 Best Val Loss 1.698 Best Val Acc 0.778 Best Fold Val Acc  0.778 Best Fold Val Loss 1.148
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0
+INFO:__main__:Winner Best Val Accuracy 0.77778
+INFO:__main__:Test 1/3 Epoch 364 Val loss 1.98 Val acc 0.667 Best Val Loss 1.138 Best Val Acc 0.796
+INFO:__main__:Test 2/3 Epoch 500 Val loss 3.423 Val acc 0.63 Best Val Loss 2.426 Best Val Acc 0.741
+INFO:__main__:Test 3/3 Epoch 500 Val loss 2.865 Val acc 0.667 Best Val Loss 2.244 Best Val Acc 0.722
+INFO:__main__:Avg test acc 0.783, Agv test acc std 0.036
+INFO:__main__:Cross-val iter:9 | Current average test accuracy across folds 0.71728
+INFO:__main__:
+
+INFO:__main__:------------------------------ITERATION 10------------------------------
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 1/4 Epoch 500 Val loss 10.204 Val acc 0.741 Best Val Loss 6.446 Best Val Acc 0.815 Best Fold Val Acc  0.815 Best Fold Val Loss 1.482
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 2/4 Epoch 500 Val loss 7.144 Val acc 0.685 Best Val Loss 5.854 Best Val Acc 0.778 Best Fold Val Acc  0.815 Best Fold Val Loss 1.482
+INFO:__main__:Model # Parameters 60486
+INFO:__main__:MS 3/4 Epoch 500 Val loss 7.22 Val acc 0.722 Best Val Loss 7.389 Best Val Acc 0.759 Best Fold Val Acc  0.815 Best Fold Val Loss 1.482
+INFO:__main__:Model # Parameters 15910
+INFO:__main__:MS 4/4 Epoch 500 Val loss 2.697 Val acc 0.611 Best Val Loss 3.141 Best Val Acc 0.741 Best Fold Val Acc  0.815 Best Fold Val Loss 1.162
+INFO:__main__:Winner of Model Selection | hidden dim: 64 | dropout 0.5
+INFO:__main__:Winner Best Val Accuracy 0.81481
+INFO:__main__:Test 1/3 Epoch 500 Val loss 2.623 Val acc 0.704 Best Val Loss 1.833 Best Val Acc 0.778
+INFO:__main__:Test 2/3 Epoch 500 Val loss 6.225 Val acc 0.63 Best Val Loss 3.474 Best Val Acc 0.778
+INFO:__main__:Test 3/3 Epoch 500 Val loss 4.011 Val acc 0.704 Best Val Loss 2.472 Best Val Acc 0.796
+INFO:__main__:Avg test acc 0.722, Agv test acc std 0.028
+INFO:__main__:Cross-val iter:10 | Current average test accuracy across folds 0.71778
+INFO:__main__:
+
+INFO:__main__:AVERAGE TEST ACC ACROSS FOLDS 0.71778
+INFO:__main__:STD ACROSS FOLDS 0.0479068025273558

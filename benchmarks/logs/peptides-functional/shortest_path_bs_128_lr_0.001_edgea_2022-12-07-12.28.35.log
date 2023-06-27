@@ -1,0 +1,57 @@
+INFO:__main__:{'hidden_dim': 128, 'lstm_dropout': 0, 'in_dropout': 0, 'out_dropout': 0, 'cutoff': 9, 'n_seeds': 4, 'readout': 'mean', 'path_agg': 'sum'}
+INFO:__main__:
+--------------- TESTING OVER 4 SEEDS---------------
+
+INFO:__main__:Model # Parameters 510090
+INFO:__main__:============= Results 1/4=============
+Dataset:        peptides-functional
+-------------  Best epoch ------------------
+Best epoch:     160
+Validation:     0.6979    Seed Average: 0.6979 +/- 0.0000
+Test:           0.6843    Seed Average: 0.6843 +/- 0.0000
+--------------- Last epoch -----------------
+Train:          0.9989    Seed Average: 0.9989 +/- 0.0000
+Validation:     0.6850    Seed Average: 0.6850 +/- 0.0000
+Test:           0.6833    Seed Average: 0.6833 +/- 0.0000
+-------------------------------------------
+
+
+INFO:__main__:============= Results 2/4=============
+Dataset:        peptides-functional
+-------------  Best epoch ------------------
+Best epoch:     199
+Validation:     0.6932    Seed Average: 0.6955 +/- 0.0023
+Test:           0.6830    Seed Average: 0.6837 +/- 0.0007
+--------------- Last epoch -----------------
+Train:          0.9989    Seed Average: 0.9989 +/- 0.0000
+Validation:     0.6908    Seed Average: 0.6879 +/- 0.0029
+Test:           0.6768    Seed Average: 0.6801 +/- 0.0033
+-------------------------------------------
+
+
+INFO:__main__:============= Results 3/4=============
+Dataset:        peptides-functional
+-------------  Best epoch ------------------
+Best epoch:     77
+Validation:     0.6969    Seed Average: 0.6960 +/- 0.0020
+Test:           0.6818    Seed Average: 0.6830 +/- 0.0010
+--------------- Last epoch -----------------
+Train:          0.9987    Seed Average: 0.9988 +/- 0.0001
+Validation:     0.6775    Seed Average: 0.6844 +/- 0.0055
+Test:           0.6757    Seed Average: 0.6786 +/- 0.0034
+-------------------------------------------
+
+
+INFO:__main__:============= Results 4/4=============
+Dataset:        peptides-functional
+-------------  Best epoch ------------------
+Best epoch:     149
+Validation:     0.6967    Seed Average: 0.6962 +/- 0.0018
+Test:           0.6774    Seed Average: 0.6816 +/- 0.0026
+--------------- Last epoch -----------------
+Train:          0.9990    Seed Average: 0.9989 +/- 0.0001
+Validation:     0.6852    Seed Average: 0.6846 +/- 0.0048
+Test:           0.6835    Seed Average: 0.6798 +/- 0.0036
+-------------------------------------------
+
+

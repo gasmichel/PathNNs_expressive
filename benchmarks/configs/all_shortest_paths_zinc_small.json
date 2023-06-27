@@ -1,0 +1,8 @@
+{
+    "hidden_dim" : 66,
+    "dropout" : 0,
+    "cutoff" : 5,
+    "n_seeds" : 10,
+    "readout" : "sum",
+    "path_agg" : "sum"
+}

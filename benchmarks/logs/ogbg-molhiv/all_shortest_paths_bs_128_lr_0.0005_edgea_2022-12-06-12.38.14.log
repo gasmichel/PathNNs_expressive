@@ -1,0 +1,135 @@
+INFO:__main__:{'hidden_dim': 128, 'lstm_dropout': 0.5, 'in_dropout': 0.5, 'out_dropout': 0.5, 'cutoff': 3, 'n_seeds': 10, 'readout': 'mean', 'path_agg': 'sum'}
+INFO:__main__:
+--------------- TESTING OVER 10 SEEDS---------------
+
+INFO:__main__:Model # Parameters 306177
+INFO:__main__:============= Results 1/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     133
+Validation:     0.7924    Seed Average: 0.7924 +/- 0.0000
+Test:           0.7934    Seed Average: 0.7934 +/- 0.0000
+--------------- Last epoch -----------------
+Train:          0.9617    Seed Average: 0.9617 +/- 0.0000
+Validation:     0.7705    Seed Average: 0.7705 +/- 0.0000
+Test:           0.7717    Seed Average: 0.7717 +/- 0.0000
+-------------------------------------------
+
+
+INFO:__main__:============= Results 2/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     122
+Validation:     0.8067    Seed Average: 0.7995 +/- 0.0072
+Test:           0.8020    Seed Average: 0.7977 +/- 0.0043
+--------------- Last epoch -----------------
+Train:          0.9669    Seed Average: 0.9643 +/- 0.0026
+Validation:     0.7884    Seed Average: 0.7794 +/- 0.0090
+Test:           0.7932    Seed Average: 0.7825 +/- 0.0107
+-------------------------------------------
+
+
+INFO:__main__:============= Results 3/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     171
+Validation:     0.8176    Seed Average: 0.8056 +/- 0.0103
+Test:           0.7794    Seed Average: 0.7916 +/- 0.0093
+--------------- Last epoch -----------------
+Train:          0.9667    Seed Average: 0.9651 +/- 0.0024
+Validation:     0.8105    Seed Average: 0.7898 +/- 0.0164
+Test:           0.7751    Seed Average: 0.7800 +/- 0.0094
+-------------------------------------------
+
+
+INFO:__main__:============= Results 4/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     153
+Validation:     0.8249    Seed Average: 0.8104 +/- 0.0123
+Test:           0.7975    Seed Average: 0.7931 +/- 0.0085
+--------------- Last epoch -----------------
+Train:          0.9644    Seed Average: 0.9649 +/- 0.0021
+Validation:     0.8085    Seed Average: 0.7945 +/- 0.0163
+Test:           0.7903    Seed Average: 0.7826 +/- 0.0093
+-------------------------------------------
+
+
+INFO:__main__:============= Results 5/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     181
+Validation:     0.8219    Seed Average: 0.8127 +/- 0.0119
+Test:           0.8118    Seed Average: 0.7968 +/- 0.0107
+--------------- Last epoch -----------------
+Train:          0.9638    Seed Average: 0.9647 +/- 0.0019
+Validation:     0.8064    Seed Average: 0.7968 +/- 0.0154
+Test:           0.7901    Seed Average: 0.7841 +/- 0.0089
+-------------------------------------------
+
+
+INFO:__main__:============= Results 6/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     169
+Validation:     0.8275    Seed Average: 0.8152 +/- 0.0122
+Test:           0.7785    Seed Average: 0.7938 +/- 0.0119
+--------------- Last epoch -----------------
+Train:          0.9658    Seed Average: 0.9649 +/- 0.0018
+Validation:     0.8210    Seed Average: 0.8009 +/- 0.0167
+Test:           0.7788    Seed Average: 0.7832 +/- 0.0083
+-------------------------------------------
+
+
+INFO:__main__:============= Results 7/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     200
+Validation:     0.8212    Seed Average: 0.8160 +/- 0.0115
+Test:           0.7796    Seed Average: 0.7917 +/- 0.0121
+--------------- Last epoch -----------------
+Train:          0.9618    Seed Average: 0.9644 +/- 0.0020
+Validation:     0.8212    Seed Average: 0.8038 +/- 0.0170
+Test:           0.7796    Seed Average: 0.7827 +/- 0.0078
+-------------------------------------------
+
+
+INFO:__main__:============= Results 8/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     182
+Validation:     0.8173    Seed Average: 0.8162 +/- 0.0107
+Test:           0.8025    Seed Average: 0.7931 +/- 0.0118
+--------------- Last epoch -----------------
+Train:          0.9636    Seed Average: 0.9643 +/- 0.0019
+Validation:     0.7972    Seed Average: 0.8029 +/- 0.0160
+Test:           0.7910    Seed Average: 0.7837 +/- 0.0078
+-------------------------------------------
+
+
+INFO:__main__:============= Results 9/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     164
+Validation:     0.8231    Seed Average: 0.8170 +/- 0.0104
+Test:           0.7862    Seed Average: 0.7923 +/- 0.0114
+--------------- Last epoch -----------------
+Train:          0.9666    Seed Average: 0.9646 +/- 0.0019
+Validation:     0.8038    Seed Average: 0.8030 +/- 0.0151
+Test:           0.7738    Seed Average: 0.7826 +/- 0.0080
+-------------------------------------------
+
+
+INFO:__main__:============= Results 10/10=============
+Dataset:        ogbg-molhiv
+-------------  Best epoch ------------------
+Best epoch:     130
+Validation:     0.8034    Seed Average: 0.8156 +/- 0.0106
+Test:           0.7861    Seed Average: 0.7917 +/- 0.0109
+--------------- Last epoch -----------------
+Train:          0.9647    Seed Average: 0.9646 +/- 0.0018
+Validation:     0.7768    Seed Average: 0.8004 +/- 0.0164
+Test:           0.7811    Seed Average: 0.7825 +/- 0.0076
+-------------------------------------------
+
+

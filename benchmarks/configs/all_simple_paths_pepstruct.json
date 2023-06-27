@@ -1,0 +1,9 @@
+{
+    "hidden_dim" : 136,
+    "dropout" : 0,
+    "cutoff" : 5,
+    "n_seeds" : 4,
+    "readout" : "sum",
+    "path_agg" : "mean",
+    "encode_distances" : true
+}   

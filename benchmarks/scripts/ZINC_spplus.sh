@@ -1,0 +1,2 @@
+#!/bin/sh
+python ../main_ogb.py --dataset ZINC --path-type all_shortest_paths --residuals --use_edge_attr --epochs 1000 --patience 1000 --batch_size 128 --lr 0.001 --config_run configs/all_shortest_paths_zinc.json

@@ -1,0 +1,69 @@
+{   "task" : "iso",
+
+    "shortest_path" : {
+        "dataset_config" : {
+            "root" : "data/EXP/",
+            "task" : "iso",
+            "cutoff" : 11,
+            "path_type" : "shortest_path"
+        },
+        "model_config" : {
+            "input_dim" : 1,
+            "hidden_dim" : 16, 
+            "cutoff" : 11,
+            "n_classes" : 1,
+            "dropout" : 0,
+            "residuals" : true, 
+            "encode_distances" : false,
+            "l2_norm" : true
+        }, 
+        "train_config" : {
+            "batch_size" : 32
+        }
+    }, 
+
+    "all_shortest_paths" : {
+        "dataset_config" : {
+            "root" : "data/EXP/",
+            "task" : "iso",
+            "cutoff" : 11,
+            "path_type" : "all_shortest_paths"
+        },
+        "model_config" : {
+            "input_dim" : 1,
+            "hidden_dim" : 16, 
+            "cutoff" : 11,
+            "n_classes" : 1,
+            "dropout" : 0,
+            "residuals" : true, 
+            "encode_distances" : false,
+            "l2_norm" : true
+        }, 
+        "train_config" : {
+            "batch_size" : 32
+        }
+    }, 
+
+    "all_simple_paths" : {
+        "dataset_config" : {
+            "root" : "data/EXP/",
+            "task" : "iso",
+            "cutoff" : 6,
+            "path_type" : "all_simple_paths"
+        },
+        "model_config" : {
+            "input_dim" : 1,
+            "hidden_dim" : 16, 
+            "cutoff" : 6,
+            "n_classes" : 1,
+            "dropout" : 0,
+            "residuals" : true, 
+            "encode_distances" : true,
+            "l2_norm" : true
+        }, 
+        "train_config" : {
+            "batch_size" : 16
+        }
+    }
+        
+}

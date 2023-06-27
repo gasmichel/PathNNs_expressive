@@ -1,0 +1,2 @@
+#!/bin/sh
+python ../main_ogb.py --dataset peptides-functional --path-type shortest_path --residuals --use_edge_attr --epochs 200 --patience 50 --batch_size 128 --lr 0.001 --config_run configs/shortest_path_pepfunc.json

@@ -1,0 +1,52 @@
+{
+    "MUTAG": {
+        "use_node_labels": true,
+        "use_node_attributes": false,
+        "degree_as_tag": false
+    },
+    "ENZYMES": {
+        "use_node_labels": true,
+        "use_node_attributes": true,
+        "degree_as_tag": false
+    },
+    "IMDB-BINARY": {
+        "use_node_labels": false,
+        "use_node_attributes": false,
+        "degree_as_tag": true
+    },
+    "DD": {
+        "use_node_labels": true,
+        "use_node_attributes": false,
+        "degree_as_tag": false
+    },
+    "NCI1": {
+        "use_node_labels": true,
+        "use_node_attributes": false,
+        "degree_as_tag": false
+    },
+    "PROTEINS": {
+        "use_node_labels": true,
+        "use_node_attributes": false,
+        "degree_as_tag": false
+    },
+    "IMDB-MULTI": {
+        "use_node_labels": false,
+        "use_node_attributes": false,
+        "degree_as_tag": true
+    },
+    "COLLAB": {
+        "use_node_labels": false,
+        "use_node_attributes": false,
+        "degree_as_tag": true
+    },
+    "REDDIT-BINARY": {
+        "use_node_labels": false,
+        "use_node_attributes": false,
+        "degree_as_tag": true
+    },
+    "REDDIT-MULTI-5K": {
+        "use_node_labels": false,
+        "use_node_attributes": false,
+        "degree_as_tag": true
+    }
+}
